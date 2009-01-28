@@ -1,1 +1,12 @@
-Currently only tested with Grails 1.1
+Grails Restful Scaffolding
+==========================
+
+Note: Currently only tested with Grails 1.1
+
+Just some code I have that I thought I should share if useful to anyone
+
+To install. In your grails application, run:
+
+ - grails install-templates
+ - copy the contents of this project to src/templates/scaffolding 
+ - regenerate your controllers and views for each model class using "grails generate-all"
