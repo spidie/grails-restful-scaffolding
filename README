@@ -10,3 +10,5 @@ To install. In your grails application, run:
  - grails install-templates
  - copy the contents of this project to src/templates/scaffolding 
  - regenerate your controllers and views for each model class using "grails generate-all"
+
+Note: this is nowhere near complete yet - I am just putting the code up here as I convert it.
